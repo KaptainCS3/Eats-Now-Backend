@@ -1,0 +1,25 @@
+{
+  "name": "eats-now-backend",
+  "version": "1.0.0",
+  "description": "This is a backend application for our food waste management",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaptainCS3/Eats-Now-Backend.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "sequelize",
+    "superbase"
+  ],
+  "author": "KaptainCS3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaptainCS3/Eats-Now-Backend/issues"
+  },
+  "homepage": "https://github.com/KaptainCS3/Eats-Now-Backend#readme"
+}
